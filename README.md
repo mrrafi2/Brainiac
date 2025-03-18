@@ -66,8 +66,8 @@ Brainiac Blogsite is a modern, futuristic, and advanced blogging platform built 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/brainiac-blogsite.git
-   cd brainiac-blogsite
+   git clone https://github.com/mrrafi2/Brainiac.git
+   cd brainiac
    ```
 
 2. **Install dependencies:**
